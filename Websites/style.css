@@ -7,3 +7,15 @@
     --dark-text: #3D3028;
     --white: #FFFFFF;
 }
+{
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: var(--dark-text);
+    background-color: var(--cream);
+    line-height: 1.6;
+}
