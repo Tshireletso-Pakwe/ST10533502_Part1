@@ -188,7 +188,6 @@ button:hover {
     border-color: var(--dark-red);
 }
 
-
 /* PRODUCT SECTIONS */
 
 section:has(article) {
