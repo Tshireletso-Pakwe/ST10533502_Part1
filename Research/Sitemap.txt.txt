@@ -1,0 +1,47 @@
+HOME BAKED WEBSITE SITEMAP
+
+HOME (index.html)
+│
+├── Hero Section
+├── Introduction
+├── Featured Products
+│   ├── Cakes
+│   ├── Cupcakes
+│   └── Pastries
+└── Call to Action
+
+
+ABOUT US (about.html)
+│
+├── Organisation Overview
+├── History
+├── Mission
+├── Vision
+└── Values
+
+
+PRODUCTS (products.html)
+│
+├── Cakes
+│   ├── Celebration Cakes
+│   └── Custom Cakes
+├── Cupcakes
+├── Pastries
+└── Bread
+
+
+ENQUIRY (inquiry.html)
+│
+├── Customer Details
+├── Enquiry Type
+├── Product/Order Details
+└── Submit Enquiry
+
+
+CONTACT (contact.html)
+│
+├── Business Information
+├── Location
+├── Map
+├── Contact Information
+└── Contact Form
