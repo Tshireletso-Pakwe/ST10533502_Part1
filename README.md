@@ -20,3 +20,28 @@ Cakes
 Cupcakes
 Pastries
 Bread
+
+Website Features
+Navigation menu
+Product showcase
+Product images
+Enquiry form
+Contact form
+Contact information
+Google Maps location
+Get Directions button
+Responsive design for smaller screens
+Technologies Used
+HTML5
+CSS3
+Project Structure
+
+The project contains HTML pages for the different sections of the website, a CSS stylesheet for the website design and image files used to represent the bakery and its products.
+
+Author
+
+Tshireletso
+
+Year
+
+2026
